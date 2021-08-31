@@ -27,3 +27,9 @@ python  IYPP.py <checking password>
 ## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
+
+### Donate!
+Support the author:
+
+<noscript><a href="https://paypal.me/jamer05"><img alt="Donate using PayPal" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-small.png"></a></noscript>
+
